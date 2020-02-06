@@ -1,4 +1,4 @@
-# Meetup ComputerVision
+# Meetup Visão Computacional - AIGirls
 Slides disponíveis em: https://pt.slideshare.net/suzanasvm2/viso-computacional-meetup-aigirls
 
 Projects:
