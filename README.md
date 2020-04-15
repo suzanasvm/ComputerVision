@@ -5,7 +5,7 @@ Projects:
 
 1. Detect Face with OpenCV
 
-2. Detect Face with Dlib:https://medium.com/@suzana.svm/reconhecendo-landmarks-em-faces-com-dlib-python-7bfb094e1bb4
+2. Detect Face with Dlib: https://medium.com/@suzana.svm/reconhecendo-landmarks-em-faces-com-dlib-python-7bfb094e1bb4
 
 3. Detect Smile with OpenCV
 
