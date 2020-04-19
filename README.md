@@ -15,5 +15,5 @@ Projects:
 5. Track colors: track_colors.py
 <p>https://medium.com/@suzana.svm/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e
 
-6. Blink eyes:
+6. Blink eyes: blink_eyes.py
 
